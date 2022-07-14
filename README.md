@@ -1,16 +1,3 @@
-# ecommerce_using_firebase
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='https://user-images.githubusercontent.com/57865985/178961820-abe4e7b9-f885-4361-b029-5de8b51a2739.png' width=240 height=520>Cart Page
+<img src='https://user-images.githubusercontent.com/57865985/178961831-9ed9aca1-373e-4e34-9e33-4c195aeecd33.png' width=240 height=520>Feed Page
+<img src='https://user-images.githubusercontent.com/57865985/178961836-2d056d01-33eb-4421-94bd-e341d4384d57.png' width=240 height=520>Profile Page
